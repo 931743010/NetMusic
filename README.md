@@ -26,12 +26,9 @@
 
 
 ##项目计划思维图
-
-![项目计划](http://7xr0og.com1.z0.glb.clouddn.com/%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92.png  "")
-
-
-
-
+.
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易思维图.png" style="zoom:50%" />
+.
 
 
 
