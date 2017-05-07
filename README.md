@@ -38,29 +38,27 @@
 
 ##界面显示效果
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay1.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易1.png" style="zoom:50%" />
+.
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay2.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易2.png" style="zoom:50%" />
+.
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay3.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易3.png" style="zoom:50%" />
+.
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay4.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易4.png" style="zoom:50%" />
+.
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay5.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易5.png" style="zoom:50%" />
+.
 
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/musicPlay6.png" width="50%" height="50%">
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易1.gif" style="zoom:50%" />
+.
 
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易2.gif" style="zoom:50%" />
+.
 
-动图较大：
-
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/play4.gif" width="50%" height="50%">
-
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/play1.gif" width="50%" height="50%">
-
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/play2.gif" width="50%" height="50%">
-
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/play3.gif" width="50%" height="50%">
-
-<img src="http://7xr0og.com1.z0.glb.clouddn.com/play5.gif" width="50%" height="50%">
-
+<img src="https://github.com/xiaobaiso/xiaobaiso.github.io/raw/master/image/网易3.gif" style="zoom:50%" />
+.
 
